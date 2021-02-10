@@ -1,0 +1,77 @@
+*
+{
+    margin: 0;
+    padding: 0%;
+}
+header
+{
+    text-align: justify ;
+    margin: 10px;
+    padding: 6px;
+    background: cyan;
+}
+.menu{
+  padding: 5px; 
+  
+  background: cornsilk;
+}
+.menu li{
+
+  list-style: none;
+  padding: 5px;
+  display: inline-block;
+  
+}
+div
+{
+  border: 1px solid black;
+  margin: auto;
+  width: 930px;
+}
+.seccion{
+
+  margin: 20px;
+  border: 1px solid black;
+  width: 600px;
+  float: left;
+  padding: 5px;
+
+}
+
+.art1 , .art2{
+
+ border: 1px;
+ background: rosybrown;
+ margin: 10px;
+ text-align: center;
+
+}
+.art1 h4 , .art2 h4{
+  text-align: left;
+  padding: 5px;
+}
+
+.Columna{
+
+  width: 200px;
+  border: 1px solid black;
+  float: left;
+  margin: 20px;
+  padding: 5px;
+
+}
+
+.pie{
+  clear: both;
+  text-align: center;
+  
+}
+.seccion img {
+  width: 81px;
+  margin: 20px;
+  display: block;
+}
+p{
+  width: 50px 50px;
+  margin: 10px;
+}
